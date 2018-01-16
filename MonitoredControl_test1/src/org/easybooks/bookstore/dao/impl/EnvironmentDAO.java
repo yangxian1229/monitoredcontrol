@@ -1,0 +1,20 @@
+package org.easybooks.bookstore.dao.impl;
+
+import java.util.List;
+
+import org.easybooks.bookstore.dao.BaseDAO;
+import org.easybooks.bookstore.dao.IEnvironmentDAO;
+import org.hibernate.Query;
+import org.hibernate.Session;
+
+public class EnvironmentDAO extends BaseDAO implements IEnvironmentDAO{
+    //得到所有环境
+	public List getAllEnvironments() {
+		Session session = getSession();
+		Query query = session.createQuery("from Environment env");
+		List environments = query.list();
+		session.close();
+		return environments;
+	}
+
+}
