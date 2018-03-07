@@ -74,87 +74,9 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module-library">
-      <library name="freemarker-2.3.19.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/freemarker-2.3.19.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="javassist-3.11.0.GA.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="ognl-3.0.5.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/ognl-3.0.5.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="xwork-core-2.3.4.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.3.4.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="ezmorph-1.0.6.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="json-lib-2.2.2-jdk15.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/json-lib-2.2.2-jdk15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="activation.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/activation.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-email-1.0.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/commons-email-1.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="mail.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/mail.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="json-lib-2.4-jdk15" level="project" />
+    <orderEntry type="library" name="commons-email-1.0" level="project" />
+    <orderEntry type="library" name="mail" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-dbcp2:2.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-pool2:2.4.2" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
@@ -190,5 +112,23 @@
     <orderEntry type="library" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" level="project" />
     <orderEntry type="library" name="Maven: javax.transaction:jta:1.1" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: net.sf.json-lib:json-lib:2.4">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: org.apache.commons:commons-email:1.0">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
