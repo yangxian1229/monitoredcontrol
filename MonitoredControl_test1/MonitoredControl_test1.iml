@@ -124,7 +124,7 @@
     <orderEntry type="module-library">
       <library name="Maven: org.apache.commons:commons-email:1.0">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-email-1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
