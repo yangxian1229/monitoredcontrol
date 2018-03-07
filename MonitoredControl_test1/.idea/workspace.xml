@@ -2,141 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75d9760a-c552-4357-a8e4-d0aaf6c98838" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_attrs_1_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_2_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_0_1B.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_3_2_5_ga.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_dao_2_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_hibernate3_2_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_2_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang-2.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-3.0.16-ga-bin.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.22-bin.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/struts2-core-2.3.4.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/struts2-spring-plugin-2.3.4.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/log4j.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/AlarmRegularAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/AlarmloggingAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/ContactsAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/Ent_viewAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/EnterpriseAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/EnvByNoAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/EnvironmentAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/InletAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/LoginAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/MailAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/Outfall_viewAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/SCY_viewAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/SignAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/action/form/Outfall_formAction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/BaseDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IAlarmRegularDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IAlarmloggingDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IContactsDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IEnt_viewDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IEnterpriseDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IEnvByNoDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IEnvironmentDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IInletDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IMailDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IOutfallDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IOutfall_viewDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/ISCY_viewDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/ISignDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/IUserDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/AlarmRegularDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/AlarmloggingDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/ContactsDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/Ent_viewDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/EnterpriseDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/EnvByNoDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/EnvironmentDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/InletDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/MailDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/Outfall_viewDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/SCY_viewDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/SignDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/UserDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/dao/impl/a_test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IAlarmRegularService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IAlarmloggingService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IContactsService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IEnt_viewService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IEnterpriseService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IEnvByNoService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IEnvironmentService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IInletService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IMailService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/IOutfall_viewService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/ISCY_viewService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/ISignService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/AlarmRegularService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/AlarmloggingService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/ContactsService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/Ent_viewService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/EnterpriseService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/EnvByNoService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/EnvironmentService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/InletService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/MailService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/Outfall_viewService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/SCY_viewService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/service/impl/SignService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/AbstractUser.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Alarmlogging.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Alarmlogging.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Alarmregular.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Alarmregular.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Contacts.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Contacts.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/ContactsDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Datamanage.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Datamanage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Enterprise.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Enterprise.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Enterprise_view.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Environment.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Environment.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Inlet.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Inlet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Inlet_view.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Mail.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Mail.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/MailDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Manage.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Manage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Outfall.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Outfall.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Outfall_view.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/SCY_view.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Scy.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Scy.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Sign.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/Sign.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/SignDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/User.hbm.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/User.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/easybooks/bookstore/vo/UserDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/struts.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/MonitoredControl_test1.iml" afterPath="$PROJECT_DIR$/MonitoredControl_test1.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/WebRoot/WEB-INF/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -149,11 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="52">
+              <caret line="88" column="11" lean-forward="true" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactsService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/ContactsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MailService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/MailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -203,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/AlarmloggingService.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/vo/ContactsDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -294,25 +195,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bookstore" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -320,28 +202,30 @@
               <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
               <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
               <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitoredControl_test1" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MonitoredControl_test1" type="b2602c69:ProjectViewProjectNode" />
@@ -415,6 +299,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myworkspace\monitoredcontrol\MonitoredControl_test1\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -526,12 +415,12 @@
       <updated>1520302544419</updated>
       <workItem from="1520302550124" duration="2031000" />
       <workItem from="1520405790290" duration="128000" />
-      <workItem from="1520406345311" duration="4159000" />
+      <workItem from="1520406345311" duration="4809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6318000" />
+    <option name="totallyTimeSpent" value="6968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -545,7 +434,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6496711" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2246596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -584,14 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/struts.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/dao/IAlarmloggingDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -698,7 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/struts.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/struts.xml">
       <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
         <state />
       </provider>
@@ -826,16 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/ContactsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/dao/impl/MailDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -864,14 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/MailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -969,8 +832,8 @@
         <state relative-caret-position="82">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#514#515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1014,10 +877,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/ContactsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="95">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/easybooks/bookstore/service/impl/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="88" column="11" lean-forward="true" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
