@@ -44,9 +44,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/WebRoot" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/src" />
-        </sourceRoots>
+        <sourceRoots />
       </configuration>
       <facet type="Struts2" name="Struts 2">
         <configuration>
@@ -76,61 +74,6 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" level="application" />
-    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
-    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_CORE" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_AOP" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_CORE" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_JDBC" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_WEB" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_EM" level="application" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_CORE" level="application" />
-    <orderEntry type="module-library">
-      <library name="mysql-connector-java-5.1.22-bin.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.22-bin.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-fileupload-1.2.2.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-io-2.0.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-lang3-3.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-logging-1.1.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library">
       <library name="freemarker-2.3.19.jar">
         <CLASSES>
@@ -159,54 +102,9 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="struts2-core-2.3.4.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/struts2-core-2.3.4.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="struts2-spring-plugin-2.3.4.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/struts2-spring-plugin-2.3.4.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
       <library name="xwork-core-2.3.4.1.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.3.4.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-beanutils-1.8.0.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-beanutils-1.8.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-collections-3.2.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-lang-2.5.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/commons-lang-2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -225,15 +123,6 @@
       <library name="json-lib-2.2.2-jdk15.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/json-lib-2.2.2-jdk15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="mysql-connector-java-3.0.16-ga-bin.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-3.0.16-ga-bin.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -275,10 +164,24 @@
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:6.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.14.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.14.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.14.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.14.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.14.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.14.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.14.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.14.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" name="Maven: javax.transaction:jta:1.0.1B" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-hibernate3:2.0.8" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate:3.2.5.ga" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.ehcache:ehcache:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-attrs:1.5.3" level="project" />
+    <orderEntry type="library" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.6" level="project" />
+    <orderEntry type="library" name="Maven: cglib:cglib:2.1_3" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:1.5.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-dao:2.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:2.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
